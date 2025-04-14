@@ -1,1 +1,2 @@
 labring/ingress-nginx:v1.12.1
+rancher/nginx-ingress-controller:v1.12.1-hardened2
