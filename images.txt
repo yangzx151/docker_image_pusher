@@ -1,2 +1,1 @@
-labring/ingress-nginx:v1.12.1
-rancher/nginx-ingress-controller:v1.12.1-hardened2
+rancher/nginx-ingress-controller:nginx-1.11.5-rancher1
