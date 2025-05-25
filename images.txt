@@ -1,1 +1,1 @@
-ibmcom/defaultbackend:1.5
+ibmcom/defaultbackend:1.2
