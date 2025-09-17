@@ -1,1 +1,1 @@
-ibmcom/defaultbackend:1.2
+--platform=linux/amd64 telegraf:1.36
