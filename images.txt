@@ -1,1 +1,1 @@
---platform=linux/amd64 telegraf:1.36
+--platform=linux/amd64 nvidia/cuda:13.0.1-base-ubuntu24.04
