@@ -1,1 +1,1 @@
-arm64v8/python:3.9-slim
+--platform=linux/arm64/v8 arm64v8/python:3.9-slim
