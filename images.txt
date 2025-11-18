@@ -1,1 +1,2 @@
---platform=linux/arm64/v8 arm64v8/python:3.9-slim
+--platform=linux/amd64  nginx/nginx-ingress:1.11.2
+--platform=linux/amd64  newrelic/kube-webhook-certgen:v1.5.2-1-g18cfc89
