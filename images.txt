@@ -1,2 +1,1 @@
---platform=linux/amd64  nginx/nginx-ingress:1.11.2
---platform=linux/amd64  newrelic/kube-webhook-certgen:v1.5.2-1-g18cfc89
+--platform=linux/amd64  bitnami/mysql:9.4.0-debian-12-r1
