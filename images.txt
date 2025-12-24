@@ -1,1 +1,2 @@
---platform=linux/amd64  ghcr.io/bitnami/mysql:9.4.0-debian-12-r1
+--platform=linux/amd64  bitnamilegacy/mysql:9.4.0-debian-12-r1
+--platform=linux/arm64  bitnamilegacy/mysql:9.4.0-debian-12-r1
