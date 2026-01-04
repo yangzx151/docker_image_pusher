@@ -1,2 +1,2 @@
---platform=linux/amd64  bitnamilegacy/mysql:8.0
---platform=linux/arm64  bitnamilegacy/mysql:8.0
+--platform=linux/arm/v7   victoriametrics/vmstorage:v1.108.0-cluster
+
