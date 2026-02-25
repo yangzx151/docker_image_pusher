@@ -1,2 +1,2 @@
---platform=linux/arm64  alpine/curl:8.14.1
+--platform=linux/amd64  alpine/curl:8.14.1
 
