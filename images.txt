@@ -1,1 +1,1 @@
---platform=linux/amd64  danielqsj/kafka-exporter:v1.8.0
+--platform=linux/amd64  quay.io/strimzi/kafka-exporter:latest
