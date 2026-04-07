@@ -1,1 +1,1 @@
---platform=linux/amd64  bitnamilegacy/kafka-exporter-archived:latest
+--platform=linux/amd64  danielqsj/kafka-exporter:v1.8.0
