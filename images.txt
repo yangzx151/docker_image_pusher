@@ -1,1 +1,1 @@
---platform=linux/amd64  quay.io/strimzi/kafka-exporter:latest
+--platform=linux/amd64  prom/mysqld-exporter:v0.15.1
