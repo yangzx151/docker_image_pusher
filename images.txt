@@ -1,2 +1,2 @@
---platform=linux/arm64  bitnami/kubectl:1.31.1-debian-12-r2
+--platform=linux/arm64  bitnamilegacy/kubectl:1.31.1-debian-12-r2
 
