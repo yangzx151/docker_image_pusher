@@ -1,3 +1,2 @@
---platform=linux/arm64  victoriametrics/vminsert:v1.108.0-cluster
---platform=linux/arm64  victoriametrics/vmstorage:v1.108.0-cluster
---platform=linux/arm64  victoriametrics/vmselect:v1.108.0-cluster
+--platform=linux/arm64  bitnami/kubectl:1.31.1-debian-12-r2
+
