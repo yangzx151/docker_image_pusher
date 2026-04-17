@@ -1,4 +1,4 @@
---platform=linux/arm64  bitnamilegacy/nginx:1.27.1-debian-12-r5
---platform=linux/arm64  bitnamilegacy/os-shell:12-debian-12-r30
+--platform=linux/arm64 bitnami/mongodb:7.0.14-ubuntu-22.04-r3
+
 
 
