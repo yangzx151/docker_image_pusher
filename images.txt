@@ -1,4 +1,7 @@
---platform=linux/arm64  bitnami/mongodb:latest
+--platform=linux/arm64/v8 busybox:1.28
+--platform=linux/arm64/v8 elasticsearch:7.10.1
+--platform=linux/arm64  bitnamilegacy/kafka:3.5.0-debian-11-r21
+
 
 
 
