@@ -1,4 +1,4 @@
---platform=linux/amd64   eipwork/kuboard:v3.5.2.9
+--platform=linux/amd64  iluvatarcorex/ix-device-plugin:4.2.0
 
 
 
