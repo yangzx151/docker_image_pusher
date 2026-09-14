@@ -1,4 +1,5 @@
---platform=linux/amd64  iluvatarcorex/ix-device-plugin:4.2.0
+--platform=linux/amd64   bitnamilegacy/zookeeper:3.9.3-debian-12-r21
+--platform=linux/arm64   bitnamilegacy/zookeeper:3.9.3-debian-12-r21
 
 
 
