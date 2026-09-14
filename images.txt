@@ -1,5 +1,5 @@
---platform=linux/amd64   bitnamilegacy/zookeeper:3.9.3-debian-12-r21
---platform=linux/arm64   bitnamilegacy/zookeeper:3.9.3-debian-12-r21
+--platform=linux/amd64    apache/doris:2.0.0_alpha-be-x86_64
+--platform=linux/amd64    apache/doris:2.0.0_alpha-fe-x86_64
 
 
 
