@@ -1,4 +1,5 @@
---platform=linux/arm64    bitnamilegacy/zookeeper:3.9.0-debian-11-r9
+--platform=linux/arm64  apache/doris:fe-4.1.1
+--platform=linux/arm64  apache/doris:be-4.1.1
 
 
 
